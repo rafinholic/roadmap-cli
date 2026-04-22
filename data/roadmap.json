@@ -1,0 +1,17 @@
+{
+  "sprints": [
+    {
+      "id": "S1",
+      "name": "Sprint 1",
+      "features": [
+        {
+          "id": "F001",
+          "title": "User login",
+          "status": "in-progress",
+          "priority": "high",
+          "owner": "backend-team"
+        }
+      ]
+    }
+  ]
+}
