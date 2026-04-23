@@ -12,9 +12,7 @@
   "dependencies": {
     "chalk": "^5.6.2",
     "commander": "^14.0.3"
-  }
-}
-"bin": {
+  },
   "roadmap": "./index.js"
 }
 
